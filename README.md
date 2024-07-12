@@ -4,8 +4,8 @@
 El "Conversor de Monedas" es parte de los challenges propuestos por alura para fortalecer lo aprendido y mejorar la logica de programacion.
 Este conversor es capaz de hacer conversiones con 6 tipos de monedas: 🇺🇸 🇧🇷  🇨🇴 🇨🇱 🇵🇪 🇦🇷
 
+<img width="422" alt="Screenshot cvs" src="https://github.com/user-attachments/assets/e28f73ce-98bd-4c1f-bd98-339d53010211">
 
-<img width="422" alt="Screenshot cvs" src="https://github.com/user-attachments/assets/019f880c-8b04-44ef-9684-d6e38e341130">
 
 
 
